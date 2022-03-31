@@ -7232,4 +7232,3 @@ r0899_02_barcodes.png
 r0899_03_barcodes.png
 r0899_04_barcodes.png
 r0899_05_barcodes.png
-trainingfiles.txt
